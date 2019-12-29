@@ -26,4 +26,4 @@ Pretty logging on the console is made possible using the provided (but inefficie
 [`Formatter`s](https://godoc.org/github.com/z0mbie42/rz-go#LogFormatter).
 
 
-## Moved to https://gitlab.com/z0mbie42/rz-go
+## Moved to https://gitlab.com/bloom42/libs/rz-go
